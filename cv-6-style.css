@@ -1,0 +1,95 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.big-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+#photo {
+    width: 175px;
+    border-radius: 50%;
+    margin-bottom: 32px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#prenom {
+    font-size: 32pt;
+    margin: 0;
+}
+
+#nom {
+    font-size: 48pt;
+    margin: 0;
+}
+
+#poste {
+    margin: 0;
+    font-size: 18pt;
+    font-weight: normal;
+    background-color:teal;
+    color: white;
+    padding: 16px;
+}
+
+.section-gauche {
+    background-color: aliceblue;
+    width: 350px;
+    padding-left: 48px;
+}
+
+.section-droite {
+    background-color: white;
+    padding-right: 48px;
+}
+
+
+section {
+    padding: 32px;
+    width: 60%;
+}
+
+hr {
+    border: 1px solid teal;
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+address {
+    color: gray;
+    margin: 0;
+    font-size: 14px;
+}
+
+.sous-section {
+    margin-bottom: 32px;
+}
+
+.experiences-entreprise-list {
+    margin: 0;
+    padding-top: 4px;
+}
+
+.experiences-entreprise-poste, 
+.formation-etude-ecole {
+    color: gray;
+    margin: 0;
+}
+
+.experiences-entreprise-nom,
+.formation-etude-nom {
+    font-size: 18px;
+}

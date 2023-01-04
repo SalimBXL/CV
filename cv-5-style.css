@@ -1,0 +1,73 @@
+
+
+#photo {
+    width: 150px;
+}
+
+#prenom {
+    font-size: 32pt;
+    margin: 0;
+}
+
+#nom {
+    font-size: 48pt;
+    margin: 0;
+}
+
+#poste {
+    font-size: 24pt;
+    background-color:teal;
+    color: white;
+}
+
+#section-gauche {
+    background-color: aliceblue;
+}
+
+#section-droite {
+    background-color: white;
+}
+
+
+section {
+    padding: 32px;
+}
+
+hr {
+    border: 1px solid teal;
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
+address {
+    color: gray;
+    margin: 0;
+    font-size: 14px;
+}
+
+.sous-section {
+    margin-bottom: 32px;
+}
+
+.experiences-entreprise-list {
+    margin: 0;
+    padding-top: 4px;
+}
+
+.experiences-entreprise-poste, 
+.formation-etude-ecole {
+    color: gray;
+    margin: 0;
+}
+
+.experiences-entreprise-nom,
+.formation-etude-nom {
+    font-size: 18px;
+}

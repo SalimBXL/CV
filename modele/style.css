@@ -1,0 +1,12 @@
+html {
+    padding: 0;
+    margin: 0;
+    font-family: serif;
+    background-color: whitesmoke;
+    color: grey;
+    font-size: 18px;
+}
+
+p {
+    text-align: justify;
+}
